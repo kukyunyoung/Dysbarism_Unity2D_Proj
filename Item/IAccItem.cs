@@ -1,0 +1,4 @@
+interface IAccItem
+{
+    AccessaryItem Equip();
+}

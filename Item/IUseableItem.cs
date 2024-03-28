@@ -1,0 +1,4 @@
+interface IUseableItem
+{
+    bool Use();
+}

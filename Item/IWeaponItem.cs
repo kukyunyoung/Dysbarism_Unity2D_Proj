@@ -1,0 +1,4 @@
+interface IWeaponItem
+{
+    WeaponItem Equip();
+}
