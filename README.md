@@ -9,6 +9,8 @@
 
 영상 https://youtu.be/6Gf9S-YIjh8
 
+빌드파일 다운로드 https://drive.google.com/file/d/17X1qT_xYgg969g3SJ90GMssiZmfu1yAg/view?usp=drive_link
+
 ## 시스템
 
 플레이어는 게임이 시작되면 축복을 한가지 선택할 수 있습니다.
